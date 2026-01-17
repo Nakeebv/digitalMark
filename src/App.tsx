@@ -17,7 +17,7 @@ const products: Product[] = [
     description: 'A structured, pre-recorded course teaching Notion workspace design, productivity systems, and professional consulting workflows.',
     price: 499,
     image: 'https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg',
-    link: 'https://checkout.dodopayments.com/buy/pdt_0NVQG3G31bIlYSCAyl7hl?quantity=1'
+    link: 'https://www.paypal.com/ncp/payment/424XN87Z7EQE4'
   },
   {
     id: 2,
@@ -25,7 +25,7 @@ const products: Product[] = [
     description: 'A comprehensive Etsy training covering store setup, product research, listing optimization, and scaling strategies through proven frameworks.',
     price: 995,
     image: 'https://images.pexels.com/photos/3962286/pexels-photo-3962286.jpeg',
-    link: 'https://checkout.dodopayments.com/buy/pdt_0NVQEpGypaR9mibxsoT2c?quantity=1'
+    link: 'https://www.paypal.com/ncp/payment/E8ETUKCA5KJTE'
   },
   {
     id: 3,
@@ -33,7 +33,7 @@ const products: Product[] = [
     description: 'A beginner-friendly, educational course explaining stock market fundamentals, trading strategies, and risk management concepts.',
     price: 496,
     image: 'https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg',
-    link: 'https://checkout.dodopayments.com/buy/pdt_0NVIgyFPStRlZAyVoOg67?quantity=1'
+    link: 'https://www.paypal.com/ncp/payment/323886TECMP28'
   },
   {
     id: 4,
@@ -41,7 +41,7 @@ const products: Product[] = [
     description: 'A step-by-step digital course explaining how to build faceless YouTube automation channels and monetize them efficiently.',
     price: 290,
     image: 'https://images.pexels.com/photos/3721942/pexels-photo-3721942.jpeg',
-    link: 'https://checkout.dodopayments.com/buy/pdt_0NVIcZfHc4NWf88eolDxk?quantity=1'
+    link: 'https://www.paypal.com/ncp/payment/PJC4NGUF87DAY'
   },
   {
     id: 5,
@@ -49,7 +49,7 @@ const products: Product[] = [
     description: 'A pre-recorded training focused on YouTube-based digital income systems, content workflows, and monetization strategies.',
     price: 950,
     image: 'https://images.pexels.com/photos/3729557/pexels-photo-3729557.jpeg',
-    link: 'https://checkout.dodopayments.com/buy/pdt_0NVE1tZabVaN7XJ4YYkYz?quantity=1'
+    link: 'https://www.paypal.com/ncp/payment/YTD5Q7M94AA5S'
   }
 ];
 

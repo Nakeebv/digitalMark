@@ -198,7 +198,7 @@ function App() {
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-4xl font-bold text-white mb-8">About Us</h2>
             <p className="text-xl text-blue-100 leading-relaxed mb-8">
-              We provide high-quality digital courses created to educate, inform, and empower individuals with practical online skills. All content is delivered digitally and accessible immediately after purchase. Our mission is to make premium education affordable and accessible to everyone, regardless of their location or schedule.
+              We provide high-quality digital courses created to educate, inform, and empower individuals with practical online skills. All contents are delivered digitally and accessible immediately after purchase. Our mission is to make premium education affordable and accessible to everyone, regardless of their location or schedule.
             </p>
             <div className="grid md:grid-cols-3 gap-8 mt-12">
               <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-6 border border-white/20">
